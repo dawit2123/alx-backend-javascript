@@ -1,4 +1,4 @@
-# ES6 Classes
+# ES6 Data Manipuldation
 
 This project contains tasks for learning the basics of ES6 data manipuldation.
 
