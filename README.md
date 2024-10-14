@@ -2,4 +2,4 @@
 
 ### Dawit Zewdu Munie
 
-### &copy; Copyright 202
+### &copy; Copyright 2024
